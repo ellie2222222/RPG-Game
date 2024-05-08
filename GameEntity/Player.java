@@ -3,7 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
 package GameEntity;
 
 import SkillSet.Skill;
@@ -25,7 +24,6 @@ import rpggame.UtilityTool;
  *
  * @author Tam
  */
-
 public class Player extends Entity {
 
     public String name;
