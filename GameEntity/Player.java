@@ -22,7 +22,12 @@ import rpggame.UtilityTool;
 
 /*author Tam
  * 
+ *
  * 
+ * 
+ * 
+ * 
+  
 */
 
 public class Player extends Entity {
