@@ -20,7 +20,11 @@ import rpggame.GamePanel;
 import rpggame.KeyHandler;
 import rpggame.UtilityTool;
 
-/*author Tam*/
+/*author Tam
+ * 
+ * 
+ * 
+*/
 
 public class Player extends Entity {
 
