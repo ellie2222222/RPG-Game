@@ -20,6 +20,7 @@ import rpggame.GamePanel;
 import rpggame.KeyHandler;
 import rpggame.UtilityTool;
 
+
 public class Player extends Entity {
 
     public String name;
